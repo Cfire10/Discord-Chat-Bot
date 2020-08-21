@@ -1,4 +1,4 @@
 # quirky robot friend
 
-Shitty robot friend that hates life, just like me debugging this horrible robot
+WIP, just chatbot rn. Also the robot is hella racist and i dont know why
 
