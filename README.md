@@ -1,4 +1,4 @@
-# Simple-Python-Chatbot
+# Robot friend
 
 Shitty robot friend that hates life, just like me debugging this horrible robot
 
