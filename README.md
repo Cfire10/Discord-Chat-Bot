@@ -1,4 +1,4 @@
 # Simple-Python-Chatbot
 
-Creating a simple Python chatbot using natural language processing and deep learning.
+Shitty robot friend that hates life, just like me debugging this horrible robot
 
